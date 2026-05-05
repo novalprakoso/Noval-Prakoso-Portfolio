@@ -1,6 +1,6 @@
 01 — Brainstorm
 
-RTTCO:
+RTTC-O:
 
 Role:
 
