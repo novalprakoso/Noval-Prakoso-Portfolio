@@ -159,7 +159,7 @@ This aligns with the principle:
 
 This project demonstrates that AI can accelerate development, but **understanding and refinement are essential** to produce meaningful and explainable results.
 
----
+--- 
 
 ## 👤 Author
 
