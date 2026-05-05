@@ -8,14 +8,14 @@ The objective of this assignment is to build a **personal portfolio website** us
 
 Although this is a web development task, the content of this portfolio is intentionally designed to represent a **Data Engineer profile**, making it usable as a real portfolio website.
 
----
+--- 
 
 ## 🌐 Live Preview
 
 👉 Deployed using GitHub Pages
 *https://novalprakoso.github.io/Noval-Prakoso-Portfolio/*
 
----
+--- 
 
 ## 🎯 Project Goals
 
